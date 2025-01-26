@@ -123,21 +123,21 @@ export const PUBLICATIONS = [
     title: "KUbeadm with GCP",
     image: article1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Simplifying the process of setting up a Kubernetes cluster using Kubeadm on Google Cloud Platform.",
     link: "https://medium.com/@adeeshaiduwara99/building-a-kubernetes-cluster-on-gcp-using-kubeadm-part-1-f82a1a03eab4"
   },
   {
     title: "Kubeadm on Bare-metal with OpenVPN",
     image: article2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "A guide on setting up a Kubernetes cluster on bare metal using Kubeadm. This article walk you through how to overcome network challenges when connecting physical workstations across different Local Area Networks using VPN.",
     link: "https://medium.com/@adeeshaiduwara99/building-a-kubernetes-cluster-on-bare-metal-with-kubeadm-and-openvpn-e99832372716"
   },
   {
     title: "Automating Kubeadm with Ansible",
     image: article3,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "Manually setting up a Kubernetes cluster with Kubeadm can be repetitive and time-consuming. This article demonstrates how to automate the entire process using Ansible.",
     link: "https://medium.com/@adeeshaiduwara99/automating-kubernetes-cluster-creation-with-ansible-c4da185af5ac"
   },
 ];
